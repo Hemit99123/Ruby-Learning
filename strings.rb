@@ -1,3 +1,4 @@
+# The \" allows you to use " in the text itself instead of it ending the text since strings are "YOUR TEXT" format 
 phrase = "Giraffe \"aka the best\" Academy"
 spaces_phrase = "     Giraffe Academy"
 
