@@ -2,6 +2,8 @@
 phrase = "Giraffe \"aka the best\" Academy"
 spaces_phrase = "     Giraffe Academy"
 
+num_in_string = '46'
+
 # Puts everything in uppercase
 puts phrase.upcase()
 
@@ -23,3 +25,9 @@ puts phrase[8]
 
 # Does the opposite, finds the index position based off the character given
 puts phrase.index("G")
+
+# Converts string into a floating point number (both whole numbers and decimal numbers)
+puts num_in_string.to_f()
+
+# Converts string into a interger (only whole numbers allowed)
+puts num_in_string.to_s()
