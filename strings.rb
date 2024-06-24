@@ -30,4 +30,4 @@ puts phrase.index("G")
 puts num_in_string.to_f()
 
 # Converts string into a interger (only whole numbers allowed)
-puts num_in_string.to_s()
+puts num_in_string.to_i()
